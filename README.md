@@ -1,6 +1,7 @@
 # yeps-docker-compose-example
 
-YEPS app with docker compose example.
+YEPS app with docker compose example (3 nodes with nginx loadbalancer).
+
 
 To run it you should install [docker-compose](https://docs.docker.com/compose/install/).
 
