@@ -1,0 +1,36 @@
+{
+  "name": "yeps-docker-compose-example",
+  "version": "1.0.0",
+  "description": "YEPS docker-compose example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evheniy/yeps-docker-example.git"
+  },
+  "keywords": [
+    "node",
+    "yeps",
+    "error",
+    "router",
+    "async",
+    "await",
+    "promise",
+    "docker"
+  ],
+  "author": "Evheniy Buystrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evheniy/yeps-docker-example/issues"
+  },
+  "homepage": "https://github.com/evheniy/yeps-docker-example#readme",
+  "dependencies": {
+    "yeps": "^1.0.0",
+    "yeps-error": "^1.2.0",
+    "yeps-router": "^1.0.0",
+    "yeps-server": "^1.0.0",
+    "yeps-static": "^1.2.0"
+  }
+}
